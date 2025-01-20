@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="党费-已交" transform="translate(-56.000000, 0.000000)">
+            <g id="编组" transform="translate(56.000000, 0.000000)">
+                <path d="M0,0 L32,0 L32,32 C14.326888,32 2.164332e-15,17.673112 0,0 L0,0 L0,0 Z" id="矩形" fill="#FFCA00"></path>
+                <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="19.3582196 18.0180851 27.5 9.34521277 26.0072316 8 17.123956 16.337766 12.8721736 13.1414894 11.5 14.6031915 17.4743329 19.9824468 17.4759625 19.9792553 17.4987778 20 19.3239967 18.0547872"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

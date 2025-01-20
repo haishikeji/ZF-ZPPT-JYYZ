@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="150px" viewBox="0 0 109 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="76.4022222%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#77F8FF" stop-opacity="0.499296602" offset="0%"></stop>
+            <stop stop-color="#19375E" offset="19.8405091%"></stop>
+            <stop stop-color="#77F8FF" stop-opacity="0.500652713" offset="49.7704785%"></stop>
+            <stop stop-color="#37557B" stop-opacity="0.60138665" offset="80.5325462%"></stop>
+            <stop stop-color="#77F8FF" stop-opacity="0.496879097" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="4.12059276e-13 10 10 2.84217094e-14 40 2.84217094e-14 45 5 64 5 69 2.84217094e-14 99 2.84217094e-14 109 10 109 140 99 150 74 150 71 147 38 147 35 150 10 150 3.87245791e-13 140"></polygon>
+        <filter x="-13.8%" y="-10.0%" width="127.5%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="15" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.407130742   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.27060342%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#707882" stop-opacity="0.201002001" offset="0%"></stop>
+            <stop stop-color="#006FFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.27060342%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#707882" stop-opacity="0.201002001" offset="0%"></stop>
+            <stop stop-color="#006FFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.8352411%" y1="0%" x2="68.1647589%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#77F8FF" stop-opacity="0.155666111" offset="0%"></stop>
+            <stop stop-color="#77F8FF" stop-opacity="0.0528803472" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="就业驿站大数据" transform="translate(-1487, -196)">
+            <g id="区县服务榜" transform="translate(1440.25, 61)">
+                <g id="编组-28" transform="translate(46.75, 115)">
+                    <g id="1备份" transform="translate(0, 20)">
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <path stroke="url(#linearGradient-1)" stroke-width="1" d="M39.7928932,0.5 L44.7928932,5.5 L64.2071068,5.5 L69.2071068,0.5 L98.7928932,0.5 L108.5,10.2071068 L108.5,139.792893 L98.7928932,149.5 L74.2071068,149.5 L71.2071068,146.5 L37.7928932,146.5 L34.7928932,149.5 L10.2071068,149.5 L0.5,139.792893 L0.5,10.2071068 L10.2071068,0.5 L39.7928932,0.5 Z" stroke-linejoin="square"></path>
+                        </g>
+                        <polygon id="路径-50" fill="url(#linearGradient-4)" transform="translate(54.5, 34.0571) scale(1, -1) translate(-54.5, -34.0571)" points="0 44.1952381 54.5 10.5 109 44.1952381 109 57.6142857 0 57.6142857"></polygon>
+                        <polygon id="路径-50备份" fill="url(#linearGradient-5)" transform="translate(54.5, 43.9429) scale(1, -1) translate(-54.5, -43.9429)" points="0 44.0809524 54.5 10.3857143 109 44.0809524 109 77.5 0 77.5"></polygon>
+                        <text id="2" font-family="YouSheBiaoTiHei" font-size="36" font-weight="normal" fill="#77F8FF">
+                            <tspan x="41.842" y="46">2</tspan>
+                        </text>
+                        <polygon id="路径-51" fill="#006FFF" points="4.25 10 10 4 10 6.5 6.5 10"></polygon>
+                        <polygon id="路径-51备份" fill="#006FFF" transform="translate(102.125, 7) scale(-1, 1) translate(-102.125, -7)" points="99.25 10 105 4 105 6.5 101.5 10"></polygon>
+                        <polygon id="路径-51备份-2" fill="#006FFF" transform="translate(54.5, 1.5) scale(-1, 1) translate(-54.5, -1.5)" points="44 4.26325641e-14 65 2.13162821e-14 62 3 47 3"></polygon>
+                        <polyline id="路径-52" stroke="url(#linearGradient-6)" points="1.75 94.25 5.25 98 5.25 138.75 12.25 146 32 146 34.75 149"></polyline>
+                        <polyline id="路径-52备份" stroke="url(#linearGradient-6)" transform="translate(91.25, 121.625) scale(-1, 1) translate(-91.25, -121.625)" points="74.75 94.25 78.25 98 78.25 138.75 85.25 146 105 146 107.75 149"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

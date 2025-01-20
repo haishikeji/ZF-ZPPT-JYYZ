@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="39px" viewBox="0 0 880 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>小标题备份 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#384C79" stop-opacity="0.502344945" offset="0%"></stop>
+            <stop stop-color="#384C79" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="就业驿站大数据" transform="translate(-520, -721)">
+            <g id="全市一览" transform="translate(520.25, 721)">
+                <g id="编组" transform="translate(0, 7)">
+                    <g id="编组-34" transform="translate(531, 14)">
+                        <polyline id="路径-13" stroke="#3C4E7D" points="0 17.5 18.5 17.5 31 1.5 37.75 1.5 113 1.5"></polyline>
+                        <g id="编组-8" transform="translate(43, 8.5) scale(-1, -1) translate(-43, -8.5)translate(31, 6)" fill="#00ADFF">
+                            <polygon id="矩形" points="20 0 24 0 20 5 16 5"></polygon>
+                            <polygon id="矩形备份" opacity="0.602528163" points="12 0 16 0 12 5 8 5"></polygon>
+                            <polygon id="矩形备份-2" opacity="0.202220372" points="4 0 8 0 4 5 0 5"></polygon>
+                        </g>
+                        <line x1="116" y1="1.5" x2="135" y2="1.5" id="直线-2备份" stroke="#77F8FF"></line>
+                        <line x1="138" y1="1.5" x2="325.5" y2="1.5" id="直线-2备份-2" stroke="#3C4E7D"></line>
+                        <path d="M-15,17.5 L-13,17.5 M-10,17.5 L-8,17.5 M-5,17.5 L-3,17.5" id="形状结合" stroke="#77F8FF"></path>
+                        <path d="M26,8 C26,8 27.6666667,5.83333333 31,1.5 L60.25,1.5" id="路径" stroke="#77F8FF"></path>
+                        <polygon id="矩形备份-3" fill="#EEA96C" transform="translate(338.5, 1) scale(-1, 1) translate(-338.5, -1)" points="329 1.42108547e-14 346.272727 1.42108547e-14 348 2 330.727273 2"></polygon>
+                    </g>
+                    <g id="编组-34备份" transform="translate(174, 22.75) scale(-1, 1) translate(-174, -22.75)translate(0, 14)">
+                        <polyline id="路径-13" stroke="#3C4E7D" points="0 17.5 18.5 17.5 31 1.5 37.75 1.5 113 1.5"></polyline>
+                        <g id="编组-8" transform="translate(43, 8.5) scale(-1, -1) translate(-43, -8.5)translate(31, 6)" fill="#00ADFF">
+                            <polygon id="矩形" points="20 0 24 0 20 5 16 5"></polygon>
+                            <polygon id="矩形备份" opacity="0.602528163" points="12 0 16 0 12 5 8 5"></polygon>
+                            <polygon id="矩形备份-2" opacity="0.202220372" points="4 0 8 0 4 5 0 5"></polygon>
+                        </g>
+                        <line x1="116" y1="1.5" x2="135" y2="1.5" id="直线-2备份" stroke="#77F8FF"></line>
+                        <line x1="138" y1="1.5" x2="325.5" y2="1.5" id="直线-2备份-2" stroke="#3C4E7D"></line>
+                        <path d="M-15,17.5 L-13,17.5 M-10,17.5 L-8,17.5 M-5,17.5 L-3,17.5" id="形状结合" stroke="#77F8FF"></path>
+                        <path d="M26,8 C26,8 27.6666667,5.83333333 31,1.5 L60.25,1.5" id="路径" stroke="#77F8FF"></path>
+                        <polygon id="矩形备份-3" fill="#EEA96C" transform="translate(338.5, 1) scale(-1, 1) translate(-338.5, -1)" points="329 1.42108547e-14 346.272727 1.42108547e-14 348 2 330.727273 2"></polygon>
+                    </g>
+                    <line x1="380" y1="31.5" x2="498" y2="31.5" id="直线-2" stroke="#3C4E7D"></line>
+                    <polygon id="矩形" fill="url(#linearGradient-1)" points="379.25 14 501 14 513 29 367.25 29"></polygon>
+                    <polygon id="矩形" fill="#EEA96C" transform="translate(371.5, 31) scale(-1, 1) translate(-371.5, -31)" points="366 30 376 30 377 32 367 32"></polygon>
+                    <polygon id="矩形备份-4" fill="#EEA96C" transform="translate(507.5, 31) scale(-1, 1) translate(-507.5, -31)" points="502 30 512 30 513 32 503 32"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
